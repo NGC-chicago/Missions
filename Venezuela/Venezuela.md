@@ -24,9 +24,13 @@
 ### [^Footnotes]
 
 [^1]: [the national flag of Venezuela Since 2006](https://www.britannica.com/topic/flag-of-Venezuela)
+
 [^2]: Latin American
+
 [^3]: According to [New York Latin Culture Magazine](https://www.newyorklatinculture.com/venezuelan-independence-day/)
+
 [^4]: According to [BBC "Venezuela Profile - Timeline"](https://www.bbc.com/news/world-latin-america-19652436)  
+
 [^5]: Socialism is a political, social, and economic philosophy encompassing a range of economic and social systems characterized by social ownership of the means of production. It includes the political theories and movements associated with such systems [Wikipedia](https://en.wikipedia.org/wiki/Socialism)
 
 
