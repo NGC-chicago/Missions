@@ -14,7 +14,7 @@
 
 ## Brief Overview
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\Flag-Venezuela.jpg" alt="Venezuelian flag" style="zoom:40%;" /> [^1]
+<img src="/Venezuela/images//Flag-Venezuela.jpg" alt="Venezuelan flag" style="zoom:40%;" /> [^1]
 
 [Venezuela](https://goo.gl/maps/gnyrUBQ7dcXnZqhS8) is a South American[^2] country in the northern hemisphere of the continent next to [Colombia](https://goo.gl/maps/jNcmjSCsfmgcTxQu5) & [Brazil](https://goo.gl/maps/vnwT9yoGo2PcQZgj6). It declared independence form Spain on July 5, 1811.[^3] 
 
