@@ -97,7 +97,7 @@ The empire of Hugo Chavez has been described as not only corrupt but evil. Even 
 
 Maduro created a cult that glorifies the “[eternal commander](https://theconversation.com/how-todays-crisis-in-venezuela-was-created-by-hugo-chavezs-revolutionary-plan-61474),” making Chavez’s burial place a center of worship and prayer to Chavez. In some churches, the Lord’s Prayer has even been changed to say, “Our Chavez, who art in heaven.” Maduro proudly claims that he communes with Chavez, and he reportedly hosts rituals and sacrifices at the presidential palace in Chavez’s honor.
 
-Reportedly, some churches have even removed “our Father” from the Lord’s Prayer in exchange for “Our Chavez, who art in heaven.” The [IMB](https://www.imb.org/about/)[^6] reports that government officials are participating in rampant idol worship, spiritism, witchcraft and materialism.
+~~Reportedly, some churches have even removed “our Father” from the Lord’s Prayer in exchange for “Our Chavez, who art in heaven.” The [IMB](https://www.imb.org/about/)[^6] reports that government officials are participating in rampant idol worship, spiritism, witchcraft and materialism.~~
 
 Monica Starr (a missionary with [IMB](https://www.imb.org/about/)) calls it “an evil, lawless society,” and Venezuelan Christians feel the situation is one of biblical proportion. “Psalm 126 is a reality for us,” said a Venezuelan church planter. “Venezuela is under captivity by an evil empire.” There is incredible materialism, actual idol worship, spiritism, and witchcraft taking place by government officials.
 
