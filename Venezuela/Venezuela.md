@@ -177,3 +177,14 @@ But even more important than the practical help is the knowledge that we, the ch
 
 <https://www.bbc.com/news/world-latin-america-46999668> 
 
+[IMB "Venezuela: What’s Going On, What Is God Doing, and How Can You Help?"](https://www.imb.org/2018/08/24/venezuela/):
+
+<https://www.imb.org/2018/08/24/venezuela/> 
+
+[Christian Headlines "5 Things Christians Should Know about the Crisis in Venezuela"](https://www.christianheadlines.com/blog/5-things-christians-should-know-about-the-crisis-in-venezuela.html):
+
+<https://www.christianheadlines.com/blog/5-things-christians-should-know-about-the-crisis-in-venezuela.html> 
+
+[World Altas "Religious Beliefs In Venezuela"](https://www.worldatlas.com/articles/religious-beliefs-in-venezuela.html):
+<https://www.worldatlas.com/articles/religious-beliefs-in-venezuela.html> 
+
