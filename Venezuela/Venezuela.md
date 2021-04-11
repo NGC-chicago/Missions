@@ -15,7 +15,7 @@
 
 ## Brief Overview
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\Flag-Venezuela.jpg" alt="Venezuelian flag" style="zoom:40%;" />[^1]
+<img src="/Venezuela/images/Flag-Venezuela.jpg" alt="Venezuelian flag" style="zoom:40%;" />[^1]
 
 [Venezuela](https://goo.gl/maps/gnyrUBQ7dcXnZqhS8) is a South American[^2] country in the northern hemisphere of the continent next to [Colombia](https://goo.gl/maps/jNcmjSCsfmgcTxQu5) & [Brazil](https://goo.gl/maps/vnwT9yoGo2PcQZgj6). It declared independence form Spain on July 5, 1811.
 
@@ -23,7 +23,7 @@
 
 > According to [New York Latin Culture Magazine](https://www.newyorklatinculture.com/venezuelan-independence-day/) & according to [BBC "Venezuela Profile - Timeline"](https://www.bbc.com/news/world-latin-america-19652436) 
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\Nicolás_Maduro_(2019-10-25)_02.jpg" alt="President Maduro" style="zoom:50%;" />
+<img src="/Venezuela/images/Nicolás_Maduro_(2019-10-25)_02.jpg" alt="President Maduro" style="zoom:50%;" />
 
 > [President Nicolas Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro) 
 
@@ -37,7 +37,7 @@ Venezuela was once the richest and most promising country in Latin America. It h
 
 The biggest problem facing Venezuelans in their day-to-day lives is hyperinflation.
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\_105345703_venezuela-inflation_v3_976-nc.png" alt="Venezuela's Inflation" style="zoom:50%;" /> 
+<img src="/Venezuela/images/_105345703_venezuela-inflation_v3_976-nc.png" alt="Venezuela's Inflation" style="zoom:50%;" /> 
 
 >  According to [BBC "Venezuela: All you need to know about the crisis in nine charts"](https://www.bbc.com/news/world-latin-america-46999668)
 
@@ -51,7 +51,7 @@ Venezuela once boasted Latin America's richest economy - boosted by the biggest 
 
 But under former president Hugo Chávez, who died in 2013, and current President Maduro, corruption, mismanagement and high levels of debt have seen the country's economy collapse.
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\_105324005_gdp-nc.png" alt="GPD falling" style="zoom:20%;" /> 
+<img src="/Venezuela/images/_105324005_gdp-nc.png" alt="GPD falling" style="zoom:20%;" /> 
 
 > According to [BBC "Venezuela: All you need to know about the crisis in nine charts"](https://www.bbc.com/news/world-latin-america-46999668) 
 
@@ -63,7 +63,7 @@ Venezuelans are going hungry. Six out of 10 said they had gone to bed hungry bec
 
 Venezuela has suffered a huge rise in the number of malaria cases in recent years - in stark contrast to neighboring countries in Latin America, where numbers are falling.
 
-<img src="C:\Users\chris\Desktop\NOTES\Church\Venezuela\images\_105342913_ven_malariav2.png" alt="Venezuela Malaria Cases" style="zoom:50%;" /> 
+<img src="/Venezuela/images/_105342913_ven_malariav2.png" alt="Venezuela Malaria Cases" style="zoom:50%;" /> 
 
 > According to [BBC "Venezuela: All you need to know about the crisis in nine charts"](https://www.bbc.com/news/world-latin-america-46999668) as of 2015
 
@@ -115,11 +115,12 @@ What had been a trickle of interest became a flood, and hundreds began to commit
 
 Even though Christians are among the many who are leaving the country, their numbers are replaced by new believers very quickly. “Thirty percent of a church leaves, and within six months they have the same number of people,” [Theo Starr](https://www.imb.org/about/)(a missionary with [IMB](https://www.imb.org/about/)) said. Since 2005, more than four hundred churches have been planted in Venezuela.
 
+## What we can do
 Although this crisis doesn’t regularly make headlines in America right now, the reality is that it is the largest rapid displacement of people in the Americas ever witnessed, and [as big as the Syrian refugee crisis in 2015](https://www.washingtonpost.com/news/world/wp/2018/03/02/feature/i-cant-go-back-venezuelans-are-fleeing-their-crisis-torn-country-en-masse/?utm_term=.a0ff24ba64e5). Sending help has proven difficult. Large humanitarian operations have been barred from entering the country because the Venezuelan government won’t allow outside aid and refuses to acknowledge that there is a crisis. The help that comes will have to be through individuals and ministries dedicated to helping quietly.
 
-The Starrs and a team of coworkers labor in Colombia and daily organize help through contacts in Venezuelan churches. They source medicines and foods to send over the border, facilitate projects to get parcels delivered to individuals in-country, are bringing Venezuelan believers out for rest, training, and support.
+The Starrs[^7] and a team of coworkers labor in Colombia and daily organize help through contacts in Venezuelan churches. They source medicines and foods to send over the border, facilitate projects to get parcels delivered to individuals in-country, are bringing Venezuelan believers out for rest, training, and support.
 
-The Starrs network to make needs known, figuring out the best ways to help—feeding programs, medical clinics, missions conferences, discipleship training, trauma training, and small business start-ups both inside and outside the country through local contacts.
+The Starrs[^7] network to make needs known, figuring out the best ways to help—feeding programs, medical clinics, missions conferences, discipleship training, trauma training, and small business start-ups both inside and outside the country through local contacts.
 
 They started the [RaVenz Project](https://www.facebook.com/The-Ravenz-Project-2046249388979655/) so people who want to help can [purchase small amounts of groceries](https://www.tupanamarket.com/) and have them delivered in-country to individual homes. Through this project, the Starrs[^7] have figured out how to purchase food and other supplies in USD so the hyperinflation doesn’t affect the buying power. With inflation predicted to top one million percent by year’s end, this has been pivotal.
 
@@ -127,7 +128,6 @@ The Starrs[^7] and their team have also partnered with Baptist Global Response t
 
 But even more important than the practical help is the knowledge that we, the church, know about the crisis and stand alongside Venezuelans. “They have told me that even more important than the food or the money, is that we don’t forget them,” Monica said
 
-## What we can do
 
 
 
