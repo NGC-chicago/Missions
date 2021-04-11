@@ -114,6 +114,8 @@ To the human eye, Venezuela’s social and economic situation seemed to plunge i
 What had been a trickle of interest became a flood, and hundreds began to commit their lives to taking the gospel to the far reaches of the globe. IMB leadership was in place in Venezuelan seminaries and churches at that time to help train and develop leadership, tasks the Venezuelan church now nearly owns as it reaches people inside and outside the country’s border.
 
 Even though Christians are among the many who are leaving the country, their numbers are replaced by new believers very quickly. “Thirty percent of a church leaves, and within six months they have the same number of people,” [Theo Starr](https://www.imb.org/about/)(a missionary with [IMB](https://www.imb.org/about/)) said. Since 2005, more than four hundred churches have been planted in Venezuela.
+> [Christian Headlines](https://www.christianheadlines.com/blog/5-things-christians-should-know-about-the-crisis-in-venezuela.html) & [International Missions Board(IMB)](https://www.imb.org/2018/08/24/venezuela/)
+
 
 ## What we can do
 Although this crisis doesn’t regularly make headlines in America right now, the reality is that it is the largest rapid displacement of people in the Americas ever witnessed, and [as big as the Syrian refugee crisis in 2015](https://www.washingtonpost.com/news/world/wp/2018/03/02/feature/i-cant-go-back-venezuelans-are-fleeing-their-crisis-torn-country-en-masse/?utm_term=.a0ff24ba64e5). Sending help has proven difficult. Large humanitarian operations have been barred from entering the country because the Venezuelan government won’t allow outside aid and refuses to acknowledge that there is a crisis. The help that comes will have to be through individuals and ministries dedicated to helping quietly.
@@ -126,10 +128,8 @@ They started the [RaVenz Project](https://www.facebook.com/The-Ravenz-Project-20
 
 The Starrs[^7] and their team have also partnered with Baptist Global Response to begin several projects, such as [feeding the hungry](https://www.gobgr.org/projects/venezuela-response/). You can also [email the Starrs directly](mailto:SOSVenezuela2540@gmail.com) to ask how you can support farming projects, Venezuelan refugees, and Venezuelan kids or seminary students.
 
-But even more important than the practical help is the knowledge that we, the church, know about the crisis and stand alongside Venezuelans. “They have told me that even more important than the food or the money, is that we don’t forget them,” Monica said
-
-
-
+But even more important than the practical help is the knowledge that we, the church, know about the crisis and stand alongside Venezuelans. “They have told me that even more important than the food or the money, is that we don’t forget them,” Monica said.
+> [Christian Headlines](https://www.christianheadlines.com/blog/5-things-christians-should-know-about-the-crisis-in-venezuela.html) & [International Missions Board(IMB)](https://www.imb.org/2018/08/24/venezuela/)
 
 
 
